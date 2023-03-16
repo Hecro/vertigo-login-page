@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: 'Titillium Web', sans-serif;
+  color: #1E293B;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.app {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+.left-content {
+  padding: 4rem 12.1rem;
+  width: 50vw;
+  height: 100vh;
+}
+
+h1 {
+  margin-top: 5.0rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 5.5rem;
+}
+
+p {
+  font-weight: 400;
+  line-height: 2.4rem;
+  color: #475569;
+}
+
+form {
+  padding-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  gap: 0.8rem;
+}
+
+label {
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 2.1rem;
+  margin-bottom: .8rem;
+}
+
+input {
+ padding: 1.6rem 1.2rem;
+ border: .1rem solid #E2E8F0;
+ border-radius: 0.4rem;
+ color: #1E293B;
+}
+
+input::placeholder {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.1rem;
+  color: #94A3B8;
+}
+
+input:invalid {
+  border: 0.1rem solid #ED3A5A;
+}
+
+input:hover {
+  border: 0.1rem solid #7C3AED;
+}
+
+input:focus {
+  outline: 0.1rem solid #7C3AED;
+}
+
+a {
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 2.1rem;
+  text-decoration: none;
+  color: #7C3AED;
+}
+
+a:hover {
+  text-decoration-line: underline;
+}
+
+.forgot-password {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1.6rem;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3.2rem;
+  padding: 1.6rem 2.4rem;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  background: #7C3AED;
+  border: #7C3AED;
+  border-radius: .4rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #9F67FF;
+}
+
+.register {
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+
+.register-btn {
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+
+.register-field {
+  padding-top: 3.2rem;
+}
+
+.right-content {
+  width: 50vw;
+  height: 100vh;
+}
+
+
+
+
