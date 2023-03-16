@@ -142,6 +142,7 @@ button:hover {
 .right-content {
   width: 50vw;
   height: 100vh;
+  background-size: cover;
 }
 
 
