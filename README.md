@@ -2,7 +2,7 @@
 
 <p align="center">
 Projeto desenvolvido durante o desafio 11 do <br> 
-<a href="https://www.rocketseat.com.br/boracodar">#boraCodar</a>, utilizando um layout feito pelo <a href="https://www.linkedin.com/in/jonas-milan-8b68b3b2/">Jonas Milan</a>, <br> o desafio foi promovido pela <a href="https://www.rocketseat.com.br">Rocketseat</a> <br/>
+<a href="https://www.rocketseat.com.br/boracodar" target="_blank">#boraCodar</a>, utilizando um layout feito pelo <a href="https://www.linkedin.com/in/jonas-milan-8b68b3b2/" target="_blank">Jonas Milan</a>, <br> o desafio foi promovido pela <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat</a> <br/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ O projeto simula uma tela de login de uma plataforma de projetos.
 <br>
 (Precisa de algumas alterações que serão feitas em breve, como o error e disable nos inputs, responsividade e mais algumas lapidadas pra deixar o projeto perfeito)
 
-- [Você pode acessá-lo clicando aqui](https://hecro.github.io/vertigo-login-page/) ou clicando no link no topo desse mesmo repositório.
+- <a href="https://hecro.github.io/vertigo-login-page/">Você pode acessá-lo clicando aqui</a> ou clicando no link no topo desse mesmo repositório.
 
 
 
